@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DEC84DFB919F70C828E37893546ACBE6D8DFD028",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DEC84DFB919F70C828E37893546ACBE6D8DFD028" : 0,
+    "09F34BE0BC93056CEC6812A7FC6AB2469DDBC857" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "88754139-C928-45BD-86C0-A0C4B7FEA9D7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DEC84DFB919F70C828E37893546ACBE6D8DFD028" : "Social-Matter\/",
+    "09F34BE0BC93056CEC6812A7FC6AB2469DDBC857" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Social Matter",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Social Matter\/Social Matter.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/azam3d\/Initial-commit.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "09F34BE0BC93056CEC6812A7FC6AB2469DDBC857"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/azam3d\/Social-Matter.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DEC84DFB919F70C828E37893546ACBE6D8DFD028"
+    }
+  ]
+}
