@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		970921F61C794837005437DE /* ViewCellContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 970921F51C794837005437DE /* ViewCellContent.swift */; };
 		970F67AF1C78690300418A82 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 970F67AE1C78690300418A82 /* AppDelegate.swift */; };
 		970F67B11C78690300418A82 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 970F67B01C78690300418A82 /* ViewController.swift */; };
 		970F67B41C78690300418A82 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 970F67B21C78690300418A82 /* Main.storyboard */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		970921F51C794837005437DE /* ViewCellContent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewCellContent.swift; sourceTree = "<group>"; };
 		970F67AB1C78690300418A82 /* Social Matter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Social Matter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		970F67AE1C78690300418A82 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		970F67B01C78690300418A82 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				970F67AE1C78690300418A82 /* AppDelegate.swift */,
 				970F67B01C78690300418A82 /* ViewController.swift */,
 				970F67B21C78690300418A82 /* Main.storyboard */,
+				970921F51C794837005437DE /* ViewCellContent.swift */,
 				970F67B51C78690300418A82 /* Assets.xcassets */,
 				970F67B71C78690300418A82 /* LaunchScreen.storyboard */,
 				970F67BA1C78690300418A82 /* Info.plist */,
@@ -145,6 +148,7 @@
 			files = (
 				970F67C11C78696100418A82 /* Shaders.metal in Sources */,
 				970F67B11C78690300418A82 /* ViewController.swift in Sources */,
+				970921F61C794837005437DE /* ViewCellContent.swift in Sources */,
 				970F67AF1C78690300418A82 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -293,6 +297,7 @@
 				970F67BF1C78690300418A82 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
